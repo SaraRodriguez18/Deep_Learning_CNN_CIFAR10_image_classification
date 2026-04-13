@@ -1,5 +1,6 @@
 # CIFAR-10 Image Classification with CNN Experiments
 This repository contains a deep learning project focused on image classification using the CIFAR-10 dataset. The objective was to train and compare 10 different model configurations, analyze their behavior, and improve performance through architectural changes, regularization strategies, optimizer tuning, and data augmentation.
+More information: https://www.cs.toronto.edu/~kriz/cifar.html 
 
 ## Project overview
 The project uses the CIFAR-10 dataset, which contains 50,000 training images and 10,000 test images. Each image is 32x32 pixels in RGB format and belongs to one of 10 classes:
